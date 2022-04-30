@@ -1,4 +1,5 @@
 Voice Based Email System
+
 It is a python based application that is developed for Visually impaired indiviuals to
 access the Email Functionalities(i.e. Read mail,send mail etc) with the voice inputs
 only.
